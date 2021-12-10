@@ -3,12 +3,12 @@
 ## Description 
   This is a back end project using node/express.js.  The front end code was provided for the project and we were to develop the back end code to produce an app in which one can create notes, store them and have them persist on the webpage until deleted.
 
-  ## User Story
+## User Story
    AS A small business owner
     I WANT to be able to write and save notes
     SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-  ## Table of Contents
+## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   
@@ -16,11 +16,11 @@
   * [Tests](#tests)
   * [Questions](#questions)
   
-  ## Installation 
+## Installation 
   * install node.js
   * install uniqid (for the note unique id to generate)
   
-  ## Acceptance Criteria
+## Acceptance Criteria
     GIVEN a note-taking application
     WHEN I open the Note Taker
     THEN I am presented with a landing page with a link to a notes page
@@ -35,14 +35,16 @@
     WHEN I click on the Write icon in the navigation at the top of the page
     THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
     
-  ## Contributing 
+## Contributing 
     None
 
-  ## Tests
+## Tests
     None
 
-  ## Github Repo
+## Github Repo
+    https://github.com/LeahFusari/note-taker-challenge
+
+## Heroku deployed 
+  https://stark-sierra-01850.herokuapp.com
    
-
-  ## Demo Video
   
